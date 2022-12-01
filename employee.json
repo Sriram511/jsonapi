@@ -1,0 +1,64 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "will smith",
+      "designation": "Frontend Developer",
+      "team": "Frontend Team"
+    },
+    {
+      "id": 2,
+      "name": "john",
+      "designation": "Blockchain Developer",
+      "team": "BlockChain Team"
+    },
+    {
+      "id": 3,
+      "name": "Andrew",
+      "designation": "Backend Developer",
+      "team": "Python Team"
+    },
+    {
+      "id": 4,
+      "name": "Peter",
+      "designation": "Backend Developer",
+      "team": "NodeJs Team"
+    },
+    {
+      "id": 5,
+      "name": "Karthik",
+      "designation": "React Native Developer",
+      "team": "UI Team"
+    },
+    {
+      "id": 6,
+      "name": "Lakshmi Narasimhan",
+      "designation": "React Developer",
+      "team": "UI Team"
+    },
+    {
+      "id": 7,
+      "name": "Akash",
+      "designation": "Cyber Analyst",
+      "team": "Analysing Team"
+    },
+    {
+      "id": 8,
+      "name": "Steve",
+      "designation": "Data Scientist",
+      "team": "Analysing Team"
+    },
+    {
+      "id": 9,
+      "name": "Praveen",
+      "designation": "Tester",
+      "team": "Testing Team"
+    },
+    {
+      "id": 10,
+      "name": "Kishore",
+      "designation": "Tester",
+      "team": "Testing Team"
+    }
+  ]
+}
